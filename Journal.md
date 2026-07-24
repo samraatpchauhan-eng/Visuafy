@@ -11,4 +11,17 @@
 
 <hr>
 
+**7/24/26**
+ - After a while of soldering all the wires and resistors up to the pico, I finally was able to properly test the display! Obviously the video doesnt show the actual firmware for this project, but Im just glad to see everything works in order.
+
+<img width="360" height="202" alt="axd8lp" src="https://github.com/user-attachments/assets/1693a3b2-738c-4d65-ac40-6395e80c8562" />
+
+firmware
+
+<img width="534" height="716" alt="image" src="https://github.com/user-attachments/assets/a1704fd0-bcf0-4d3b-94f6-10dcc2a5b59b" />
+
+
+
+
+
 
