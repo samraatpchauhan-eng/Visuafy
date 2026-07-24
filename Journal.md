@@ -20,6 +20,13 @@ firmware
 
 <img width="534" height="716" alt="image" src="https://github.com/user-attachments/assets/a1704fd0-bcf0-4d3b-94f6-10dcc2a5b59b" />
 
+<hr>
+
+**7/24/26**
+ - IT WORKS!!!! After hours of figuring out and debugging Arduino IDE for the display and WASAPI API, I finally got the visualizer working!!! I am honestly surprised I was able to finish it this quick and am ready to ship!
+
+<img width="260" height="462" alt="axdo8q" src="https://github.com/user-attachments/assets/361cc101-ab8c-4ce8-b6a0-6c19dec41000" />
+
 
 
 
